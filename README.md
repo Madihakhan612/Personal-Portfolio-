@@ -40,7 +40,7 @@ I enjoy creating modern, responsive, and user-friendly websites that turn ideas 
 
 ## 📸 Screenshots
 
-![Portfolio Screenshot](screenshots/portfolio.png)
+![Portfolio Screenshot](https;\\Users\KHAN\Documents\Personal-Portfolio-\Screenshots)
 
 ## 👩‍💻 Author
 

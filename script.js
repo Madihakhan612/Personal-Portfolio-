@@ -255,4 +255,4 @@ if (yearText) {
     yearText.innerHTML =
         `© ${new Date().getFullYear()} Madiha Khan. All rights reserved.`;
 }
-// ================= FOOTER SECTION STAR ======================
+// ================= FOOTER SECTION END ======================
